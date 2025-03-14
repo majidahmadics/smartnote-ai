@@ -1,7 +1,0 @@
-pandas
-evernote3
-flask
-requests
-spacy
-sqlalchemy
-flask-sqlalchemy
