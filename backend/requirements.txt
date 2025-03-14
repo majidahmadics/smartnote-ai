@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+spacy
+scikit-learn
+sentence-transformers
+sqlalchemy
+pandas
+matplotlib
